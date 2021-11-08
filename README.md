@@ -1,3 +1,9 @@
+### How to run project
+
+1. Add to project .env.local file with REACT_APP_NASA_API_KEY (API key you can take from https://api.nasa.gov/).
+2. yarn install
+3. yarn start 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
