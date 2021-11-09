@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clover_dynamics_react_nasa_api/static/css/main.14134c23.chunk.css",
+    "main.js": "/clover_dynamics_react_nasa_api/static/js/main.883ed537.chunk.js",
+    "main.js.map": "/clover_dynamics_react_nasa_api/static/js/main.883ed537.chunk.js.map",
+    "runtime-main.js": "/clover_dynamics_react_nasa_api/static/js/runtime-main.5d59375c.js",
+    "runtime-main.js.map": "/clover_dynamics_react_nasa_api/static/js/runtime-main.5d59375c.js.map",
+    "static/js/2.b1493fa1.chunk.js": "/clover_dynamics_react_nasa_api/static/js/2.b1493fa1.chunk.js",
+    "static/js/2.b1493fa1.chunk.js.map": "/clover_dynamics_react_nasa_api/static/js/2.b1493fa1.chunk.js.map",
+    "static/js/3.f82c7593.chunk.js": "/clover_dynamics_react_nasa_api/static/js/3.f82c7593.chunk.js",
+    "static/js/3.f82c7593.chunk.js.map": "/clover_dynamics_react_nasa_api/static/js/3.f82c7593.chunk.js.map",
+    "index.html": "/clover_dynamics_react_nasa_api/index.html",
+    "static/css/main.14134c23.chunk.css.map": "/clover_dynamics_react_nasa_api/static/css/main.14134c23.chunk.css.map",
+    "static/js/2.b1493fa1.chunk.js.LICENSE.txt": "/clover_dynamics_react_nasa_api/static/js/2.b1493fa1.chunk.js.LICENSE.txt",
+    "static/media/1.850313c4.jpg": "/clover_dynamics_react_nasa_api/static/media/1.850313c4.jpg",
+    "static/media/2.96782276.jpg": "/clover_dynamics_react_nasa_api/static/media/2.96782276.jpg",
+    "static/media/3.be170a1e.jpg": "/clover_dynamics_react_nasa_api/static/media/3.be170a1e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d59375c.js",
+    "static/js/2.b1493fa1.chunk.js",
+    "static/css/main.14134c23.chunk.css",
+    "static/js/main.883ed537.chunk.js"
+  ]
+}
