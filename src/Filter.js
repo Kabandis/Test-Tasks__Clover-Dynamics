@@ -15,7 +15,7 @@ export const Filter = ({
     if (rover && camera && sol) {
       axios
         .get(
-          `https://api.nasa.gov/mars-photos/api/v1/rovers/${rover}/photos?sol=${sol}&camera=${camera}&api_key=${process.env.REACT_APP_NASA_API_KEY || ''}`
+          `https://api.nasa.gov/mars-photos/api/v1/rovers/${rover}/photos?sol=${sol}&camera=${camera}&api_key=v4wYOuFtIO4XoUAhIICg6mDKDyAw9S3694fgo9BA`
         )
         .then((res) => {
           setResp(res.data);
